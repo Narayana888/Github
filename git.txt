@@ -1,0 +1,1 @@
+Hello , this is a git file to initial and write the content to place in the git repository
